@@ -20,6 +20,7 @@ import org.json.JSONObject;
  */
 // First commit
 	//second commit
+	//Troisieme commit
 public class CallRestWebService {
 
 	public static final String endpoint = "http://ip-api.com/json";
